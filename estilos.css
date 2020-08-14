@@ -1,0 +1,11 @@
+.titulos {
+  background-color: red;
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  font-size: large;
+  height: 600px;
+}
+.parrafo {
+  background-color: teal;
+  height: 100px;
+}
